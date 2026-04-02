@@ -5,7 +5,7 @@ Este portfólio reúne meus trabalhos acadêmicos e práticos, organizados para 
 
 ## Cursos 
 - [Ciberseguranca](/Cursos/Ciberseguranca)
-- [Desenvolvimento de Sistemas](/Desenvolvimento-de-sistema)
+- [Desenvolvimento de Sistemas](/Cursos/Desenvolvimento-de-sistema/README.md)
 
 ## Certificados 
 - [Certificado de Cibersegurança](/Certificados)
