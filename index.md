@@ -4,7 +4,7 @@ Sou estudante das áreas de Cibersegurança e Desenvolvimento de Sistemas, sempr
 Este portfólio reúne meus trabalhos acadêmicos e práticos, organizados para mostrar minha evolução e minhas habilidades em segurança da informação, programação e desenvolvimento de soluções tecnológicas.
 
 ## Cursos 
-- [Ciberseguranca](/Cursos/Ciberseguranca)
+- [Ciberseguranca](/Cursos/Ciberseguranca/README.md)
 - [Desenvolvimento de Sistemas](/Cursos/Desenvolvimento-de-sistema/README.md)
 
 ## Certificados 
