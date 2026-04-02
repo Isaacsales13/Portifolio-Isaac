@@ -6,7 +6,7 @@ Este projeto documenta a análise de tráfego de rede referente ao erro **udp po
 ![Erro DNS](Erro%20DNS.png)
 
 ## Relatório técnico
-O relatório completo está disponível em [relatorio.md](Relatorio%20DNS.pdf).
+O relatório completo está disponível em [relatorio](Relatorio%20DNS.pdf).
 
 ### Resumo
 - Porta 53 (DNS) inacessível, mensagem ICMP: *udp port 53 unreachable*.
