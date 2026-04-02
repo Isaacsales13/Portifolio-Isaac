@@ -9,6 +9,11 @@ Este portfólio reúne meus trabalhos acadêmicos e práticos, organizados para 
 
 ## Certificados 
 - [Certificado de Cibersegurança](/Certificados)
+
+## Contato
+- Email: [isaacaraujosalles@outlook.com](mailto:isaacaraujosalles@outlook.com)
+- LinkedIn: [www.linkedin.com/in/isaac-araújo001](mailton:www.linkedin.com/in/isaac-araújo001)
+  
   
 
 
