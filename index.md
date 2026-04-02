@@ -7,4 +7,8 @@ Este portfólio reúne meus trabalhos acadêmicos e práticos, organizados para 
 - [Ciberseguranca](/Ciberseguranca)
 - [Desenvolvimento de Sistemas](/Desenvolvimento-de-sistema)
 
+## Certificados 
+- [Certificado de Cibersegurança](/Certificados)
+  
+
 
