@@ -12,7 +12,7 @@ Este portfólio reúne meus trabalhos acadêmicos e práticos, organizados para 
 
 ## Contato
 - Email: [isaacaraujosalles@outlook.com](mailto:isaacaraujosalles@outlook.com)
-- LinkedIn: [www.linkedin.com/in/isaac-araújo001](mailton:www.linkedin.com/in/isaac-araújo001)
+- LinkedIn: [www.linkedin.com/in/isaac-araújo001](mailto:www.linkedin.com/in/isaac-araújo001)
   
   
 
