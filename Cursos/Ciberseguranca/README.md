@@ -4,9 +4,9 @@ Este espaço reúne meus trabalhos e projetos desenvolvidos durante o curso de *
 Aqui estão exercícios práticos, estudos de caso e implementações voltadas para segurança da informação, proteção de dados e redes.
 
 ## Atividades
-- [Auditoria-Botium-Toys](/Cursos/Ciberseguranca/Auditoria-Botium-Toys)
-- [Relatorio- Incidente-DoS](/Cursos/Ciberseguranca/Relatorio-%20Incidente-DoS)
-- [Relatorio-Incidente-DNS](/Cursos/Ciberseguranca/Relatorio-Incidente-DNS)
+- [Auditoria-Botium-Toys](/Auditoria-Botium-Toys)
+- [Relatorio- Incidente-DoS](/Relatorio-%20Incidente-DoS)
+- [Relatorio-Incidente-DNS](/Relatorio-Incidente-DNS)
 
 
 
