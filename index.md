@@ -1,3 +1,7 @@
+---
+layout: default
+title: Curso de Cibersegurança
+---
 Olá, eu sou Isaac.
 
 Sou estudante das áreas de Cibersegurança e Desenvolvimento de Sistemas, sempre em busca de novos aprendizados e desafios.
