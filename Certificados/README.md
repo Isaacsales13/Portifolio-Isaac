@@ -8,13 +8,13 @@ Este espaço reúne meus certificados conquistados em cursos de formação nas �
   Curso introdutório sobre fundamentos da cibersegurança, boas práticas e áreas de atuação.  
   *Emitido por Google via Coursera*  
   Concluído em 9 de março de 2026  
-  [Verificar certificado](https://coursera.org/verify/YVYGV6HDBTUT)
+  
 
 - **Play It Safe: Manage Security Risks**  
   Curso sobre identificação e gestão de riscos de segurança em ambientes digitais.  
   *Emitido por Google via Coursera*  
   Concluído em 18 de março de 2026  
-  [Verificar certificado](https://coursera.org/verify/MC9BLSQGFJEX)
+  
 
 ## Cibersegurança
 
