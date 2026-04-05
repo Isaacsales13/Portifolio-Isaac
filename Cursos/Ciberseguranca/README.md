@@ -5,7 +5,7 @@ Aqui estão exercícios práticos, estudos de caso e implementações voltadas p
 
 
 ## Atividades
-- [Auditoria Botium Toys](Cursos/Ciberseguranca/Auditoria-seguranca-Botium-Toys)
+- [Auditoria Botium Toys](Auditoria-seguranca-Botium-Toys)
 - [Relatório Incidente DoS](Cursos/Ciberseguranca/Relatorio-%20Incidente-DoS)
 - [Relatório Incidente DNS](Cursos/Ciberseguranca/Relatorio-Incidente-DNS)
 
