@@ -30,7 +30,7 @@ Este espaço reúne meus certificados conquistados em cursos de formação nas �
   Conteúdo voltado para computação em nuvem, ameaças cibernéticas, criptografia e governança.  
   *Emitido por SENAI-SP em parceria com Softex, RNP e MCTI.*  
   Concluído em 9 de fevereiro de 2026
-  ![Hackers do Bem – Básico (64h).png](/Certificados/Ciberseguranca/Hackers%20do%20Bem%20–%20Básico%20(64h).png)
+  ![Hackers do Bem – Básico (64h).png](Hackers%20do%20Bem%20–%20Básico%20(64h).png)
 
 
 
