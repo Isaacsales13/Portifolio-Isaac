@@ -8,14 +8,14 @@ Este espaço reúne meus certificados conquistados em cursos de formação nas �
   Curso introdutório sobre fundamentos da cibersegurança, boas práticas e áreas de atuação.  
   *Emitido por Google via Coursera*  
   Concluído em 9 de março de 2026
-  ![Foundations of Cybersecurity.png](/Certificados/Ciberseguranca/Foundations%20of%20Cybersecurity.png)
+  ![Foundations of Cybersecurity.png](Foundations%20of%20Cybersecurity.png)
   
 
 - **Play It Safe: Manage Security Risks**  
   Curso sobre identificação e gestão de riscos de segurança em ambientes digitais.  
   *Emitido por Google via Coursera*  
   Concluído em 18 de março de 2026
-  ![Play It Safe Manage Security Risks.png](/Certificados/Ciberseguranca/Play%20It%20Safe%20Manage%20Security%20Risks.png)
+  ![Play It Safe Manage Security Risks.png](Play%20It%20Safe%20Manage%20Security%20Risks.png)
   
 
 ## Cibersegurança
@@ -24,7 +24,7 @@ Este espaço reúne meus certificados conquistados em cursos de formação nas �
   Curso introdutório com foco em fundamentos de redes, sistemas operacionais, lógica de programação e scripts.  
   *Emitido por SENAI-SP em parceria com Softex, RNP e MCTI.*  
   Concluído em 4 de fevereiro de 2026
-  ![Hackers do Bem – Nivelamento (80h).png](/Certificados/Ciberseguranca/Hackers%20do%20Bem%20–%20Nivelamento%20(80h).png)
+  ![Hackers do Bem – Nivelamento (80h).png](Hackers%20do%20Bem%20–%20Nivelamento%20(80h).png)
 
 - **Hackers do Bem – Básico (64h)**  
   Conteúdo voltado para computação em nuvem, ameaças cibernéticas, criptografia e governança.  
