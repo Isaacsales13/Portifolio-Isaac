@@ -12,7 +12,7 @@ Este portfólio reúne meus trabalhos acadêmicos e práticos, organizados para 
 - [Desenvolvimento de Sistemas](/Cursos/Desenvolvimento-de-sistema/README.md)
 
 ## Certificados 
-- [Certificado de Cibersegurança](/Certificados/Ciberseguranca)
+- [Certificado de Cibersegurança](Certificados/Ciberseguranca/index.md)
 
 ## Contato
 - Email: [isaacaraujosalles@outlook.com](mailto:isaacaraujosalles@outlook.com)
