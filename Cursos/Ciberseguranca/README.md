@@ -8,6 +8,7 @@ Aqui estão exercícios práticos, estudos de caso e implementações voltadas p
 - [Auditoria Botium Toys](Auditoria-seguranca-Botium-Toys/index.md)
 - [Relatório Incidente DoS](Relatorio-incidente-DoS/index.md)
 - [Relatório Incidente DNS](Relatorio-Incidente-DNS/index.md)
+- [Relatório Incidente Response Report](incidente-response-report/index.md)
 
 
 
