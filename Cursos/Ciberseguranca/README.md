@@ -9,6 +9,7 @@ Aqui estão exercícios práticos, estudos de caso e implementações voltadas p
 - [Relatório Incidente DoS](Relatorio-incidente-DoS/index.md)
 - [Relatório Incidente DNS](Relatorio-Incidente-DNS/index.md)
 - [Relatório Incidente Response Report](incidente-response-report/index.md)
+- [Relatório Incidente de Rede](Relatorio-incidente-de-rede/index.md)
 
 
 
